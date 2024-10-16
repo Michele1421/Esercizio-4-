@@ -14,7 +14,7 @@ nav{
 .logo{
     width: 100px;
     height: 100px;
-    
+   
 }
 .link{
     text-decoration: none;
@@ -100,12 +100,24 @@ aside{
      
 }
 
+
 .Freccia{display: flex; 
     width: 5%;
     border: none;
     margin: none;
     padding: none;
+    position: fixed;
+    bottom: 0%; 
+    right: 0%;
+    
 }
+
+
+
+
+
+
+
 
 @media screen and ( max-width:600px){ 
     
